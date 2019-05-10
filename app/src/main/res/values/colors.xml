@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#009688</color>
+    <color name="colorPrimaryLight">#FFCDD2</color>
+    <color name="colorAccent">#000</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#727272</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDivider">#B6B6B6</color>
+
+    <color name="list_divider">#c99c51</color>
+    <color name="list_row_start_color">#CA9235</color>
+    <color name="list_row_end_color">#CA9235</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#e0c495</color>
+
+    <color name="primary">#E43F3F</color>
+    <color name="primary_dark">#E12929</color>
+    <color name="primary_darker">#CC1D1D</color>
+    <color name="accent">#ffffff</color>
+
+    <!--hijau-->
+    <!--<color name="primary">#65be00</color>
+    <color name="primary_dark">#5faf03</color>
+    <color name="primary_darker">#59a503</color>-->
+
+    <color name="black">#000000</color>
+    <color name="greenAccent">#7BB897</color>
+    <color name="redAccent">#E26C60</color>
+    <color name="redAccentCyan">#f29b93</color>
+    <color name="orangeAccent">#CA9235</color>
+    <color name="orangeAccentCyan">#e0c495</color>
+    <color name="brownAccent">#645047</color>
+    <color name="brownAccentCyan">#FF87746B</color>
+    <color name="purpleAccent">#B7356D</color>
+    <color name="purpleAccentCyan">#d8709c</color>
+    <color name="greyAccent">#93A7A6</color>
+    <color name="blueAccent">#60a8e0</color>
+    <color name="blueAccentCyan">#FF8DCAFA</color>
+    <color name="amber">#ffce08</color>
+
+    <color name="background">#2f2e30</color>
+
+
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#fd0303</color>
+    <color name="blue">#0303ef</color>
+    <color name="green">#0fde16</color>
+    <color name="darkGreen">#018E3C</color>
+    <color name="darkBlue">#6100c5</color>
+
+    <!--rekap kehadiran color-->
+    <color name="greenRekap">#68D3B8</color>
+    <color name="orangeRekap">#FF9434</color>
+    <color name="blueRekap">#61C0FE</color>
+    <color name="purpleRekap">#D179E2</color>
+    <color name="redRekap">#FE6868</color>
+    <color name="purpleRekapDark">#613F8F</color>
+
+
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Latihan Android</string>
+
+    //Login
+    <string name="user_nip">User Email</string>
+    <string name="user_password">User Password</string>
+    <string name="btn_login">Login</string>
+
+    //splashscreen
+    <string name="title">Latihan Android</string>
+    <string name="company_name">PT Japati Indonesia</string>
+    <string name="copyright">Copyright \u00a9 2017 Japati Indonesia</string>
+
+
+</resources>

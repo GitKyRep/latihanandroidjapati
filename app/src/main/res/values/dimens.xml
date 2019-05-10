@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingPage">16dp</dimen>
+    <dimen name="normal_font">12sp</dimen>
+    <dimen name="medium_font">32sp</dimen>
+    <dimen name="large_font">60sp</dimen>
+
+    <dimen name="margin10">10dp</dimen>
+    <dimen name="margin20">20dp</dimen>
+    <dimen name="margin30">30dp</dimen>
+    <dimen name="margin40">40dp</dimen>
+    <dimen name="margin50">50dp</dimen>
+
+    <dimen name="padding10">10dp</dimen>
+    <dimen name="padding20">20dp</dimen>
+    <dimen name="padding30">30dp</dimen>
+    <dimen name="padding40">40dp</dimen>
+    <dimen name="padding50">50dp</dimen>
+
+    <dimen name="size5">5dp</dimen>
+    <dimen name="size10">10dp</dimen>
+    <dimen name="size20">20dp</dimen>
+    <dimen name="size30">30dp</dimen>
+    <dimen name="size40">40dp</dimen>
+    <dimen name="size50">50dp</dimen>
+    <dimen name="size60">60dp</dimen>
+    <dimen name="size70">70dp</dimen>
+    <dimen name="size80">80dp</dimen>
+    <dimen name="size90">90dp</dimen>
+    <dimen name="size100">100dp</dimen>
+
+    <dimen name="textSize10">10sp</dimen>
+    <dimen name="textSize12">12sp</dimen>
+    <dimen name="textSize15">15sp</dimen>
+    <dimen name="textSize20">20sp</dimen>
+    <dimen name="textSize30">30sp</dimen>
+    <dimen name="textSize40">40sp</dimen>
+    <dimen name="textSize50">50sp</dimen>
+    <dimen name="textSize60">60sp</dimen>
+    <dimen name="textSize70">70sp</dimen>
+    <dimen name="textSize80">80sp</dimen>
+    <dimen name="textSize90">90sp</dimen>
+    <dimen name="textSize100">100sp</dimen>
+    <dimen name="textSize110">110sp</dimen>
+    <dimen name="textSize120">120sp</dimen>
+    <dimen name="textSize130">130sp</dimen>
+    <dimen name="textSize140">140sp</dimen>
+    <dimen name="textSize150">150sp</dimen>
+
+
+</resources>
